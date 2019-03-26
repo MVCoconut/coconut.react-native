@@ -1,0 +1,21 @@
+{
+	"name": "coconut.react-native",
+	"license": "MIT",
+	"tags": [
+	  "coconut",
+	  "react",
+	  "native",
+	  "react-native"
+	],
+	"classPath": "src",
+	"contributors": [
+	  "kevinresol",
+	  "back2dos"
+	],
+	"releasenote": "initial release",
+	"version": "0.1.0",
+	"dependencies": {
+	  "coconut.react-core": "",
+	  "react-native": ""
+	}
+  }
